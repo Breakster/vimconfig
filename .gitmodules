@@ -1,0 +1,9 @@
+[submodule "pack/neovim/start/neomake"]
+	path = pack/neovim/start/neomake
+	url = https://github.com/neomake/neomake.git
+[submodule "pack/delimitmate/start/delimitMate"]
+	path = pack/delimitmate/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "pack/surround/start/vim-surround"]
+	path = pack/surround/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
