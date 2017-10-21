@@ -7,3 +7,12 @@
 [submodule "pack/surround/start/vim-surround"]
 	path = pack/surround/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/ctrlp/start/ctrlp.vim"]
+	path = pack/ctrlp/start/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "pack/nerdtree/start/nerdtree"]
+	path = pack/nerdtree/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/tcomment/start/tcomment_vim"]
+	path = pack/tcomment/start/tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim.git
