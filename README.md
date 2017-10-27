@@ -4,3 +4,8 @@ Clone this repo in your ~/.config/nvim directory. If you need this to work with 
 ```viml
 source ~/.config/nvim/init.vim
 ```
+
+If this is the first time you checkout the repo, also init submodules by doing:
+```bash
+git submodule update --init --recursive
+```
