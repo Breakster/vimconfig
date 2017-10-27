@@ -28,3 +28,12 @@
 [submodule "pack/snippets/opt/vim-snippets"]
 	path = pack/snippets/opt/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "pack/snippets/start/vim-snippets"]
+	path = pack/snippets/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "pack/snipmate/start/vim-snipmate"]
+	path = pack/snipmate/start/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate.git
