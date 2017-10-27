@@ -16,21 +16,12 @@
 [submodule "pack/tcomment/start/tcomment_vim"]
 	path = pack/tcomment/start/tcomment_vim
 	url = https://github.com/tomtom/tcomment_vim.git
-[submodule "pack/snippets/start/vim-snipmate"]
-	path = pack/snippets/start/vim-snipmate
-	url = https://github.com/garbas/vim-snipmate.git
 [submodule "pack/tlib/start/tlib_vim"]
 	path = pack/tlib/start/tlib_vim
 	url = https://github.com/tomtom/tlib_vim.git
 [submodule "pack/mwutils/start/vim-addon-mw-utils"]
 	path = pack/mwutils/start/vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "pack/snippets/opt/vim-snippets"]
-	path = pack/snippets/opt/vim-snippets
-	url = https://github.com/honza/vim-snippets.git
-[submodule "vim-snippets"]
-	path = vim-snippets
-	url = https://github.com/honza/vim-snippets.git
 [submodule "pack/snippets/start/vim-snippets"]
 	path = pack/snippets/start/vim-snippets
 	url = https://github.com/honza/vim-snippets.git
