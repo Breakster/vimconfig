@@ -28,3 +28,6 @@
 [submodule "pack/snipmate/start/vim-snipmate"]
 	path = pack/snipmate/start/vim-snipmate
 	url = https://github.com/garbas/vim-snipmate.git
+[submodule "pack/fireplace/start/vim-fireplace"]
+	path = pack/fireplace/start/vim-fireplace
+	url = https://github.com/tpope/vim-fireplace.git
